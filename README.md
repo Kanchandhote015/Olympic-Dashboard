@@ -87,4 +87,5 @@ This project showcases an interactive Power BI dashboard that provides deep insi
 
 📊 Screenshot / Demo -
 
-Dashboard Preview :- https://github.com/Kanchandhote015/Olympic-Dashboard/blob/main/olympic%20dashboard%20overview.png
+![Dashboard Preview](https://github.com/Kanchandhote015/Olympic-Dashboard/blob/main/olympic%20dashboard%20overview.png)
+
